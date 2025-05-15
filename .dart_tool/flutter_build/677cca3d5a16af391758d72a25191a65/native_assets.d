@@ -1,0 +1,1 @@
+ /home/user/CommuteWise/.dart_tool/flutter_build/677cca3d5a16af391758d72a25191a65/native_assets.yaml: 
